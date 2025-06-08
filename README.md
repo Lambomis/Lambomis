@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Simone+%F0%9F%91%8B;Software+Engineer+%26+IoT+Developer;Passionate+about+Innovation+%26+Efficiency" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Simone+%F0%9F%91%8B;Software+Engineer+%26+IoT+Developer;Innovation+%26+Efficiency" alt="Headline" />
 </div>
 
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://linkedin.com/in/simone-lambiase)
@@ -30,7 +30,7 @@
 ### ⚙️ Technologies That I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,git,docker,,arduino,html,css,js,postgres,sqlite,matlab,vscode,pycharm,clion&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,git,docker,arduino,html,css,js,postgres,sqlite,matlab,vscode,pycharm,clion,jenkins,flask,windows,nodejs&perline=14" />
 </p>
 
 ---
@@ -69,16 +69,21 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneLambiase&show_icons=true&theme=dark&locale=en&layout=compact" alt="SimoneLambiase" /></p>
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SimoneLambiase&show_icons=true&theme=dark&locale=en" alt="SimoneLambiase" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneLambiase&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimoneLambiase&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 🎯 Soft Skills
 
-- Strategic Thinking · Team Collaboration · Adaptability  
-- Time Management · Problem-Solving · Curiosity
+- 💡 Strategic Thinking &nbsp;&nbsp;&nbsp;&nbsp; 🔄 Adaptability  
+- 🤝 Team Collaboration &nbsp;&nbsp;&nbsp;&nbsp; ⏱️ Time Management  
+- 🧠 Problem-Solving &nbsp;&nbsp;&nbsp;&nbsp; 🔍 Curiosity
 
 ---
 
