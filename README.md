@@ -30,7 +30,7 @@
 ### ⚙️ Technologies That I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,git,docker,grpc,mqtt,arduino,html,css,js,postgres,sqlite,matlab,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,git,docker,,arduino,html,css,js,postgres,sqlite,matlab,vscode,pycharm,clion&perline=14" />
 </p>
 
 ---
