@@ -61,7 +61,7 @@
 
 - 📍 Milan, Italy  
 - 📧 simone_lambiase@hotmail.it
-- 🌐 [LinkedIn Profile](https://linkedin.com/in/simone-lambiase)
+- 🌐 [LinkedIn Profile](http://linkedin.com/in/simone-lambiase-126a371a0)
 
 ---
 
