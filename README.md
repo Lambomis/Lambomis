@@ -19,11 +19,11 @@
 
 ---
 
-### 🌱 I’m currently learning...
-
-- Real-time distributed systems  
+### 🌱 I’m currently learning... 
 - Advanced containerization (Docker, Jenkins, SonarQube)  
-- Optimizing embedded ML workflows
+- Designing and implementing communication tools for embedded Linux systems
+- Working with industrial protocols like gRPC and MQTT for smart grid devices
+- Defining software development and release strategies in production environments
 
 ---
 
